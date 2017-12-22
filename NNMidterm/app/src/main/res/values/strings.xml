@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NNMidterm</string>
+    <string name="nameAddComment">Add Comment</string>
+    <string name="nameContactUs">Contact Us</string>
+    <string name="user_name_label">heloo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+</resources>
